@@ -98,10 +98,3 @@ section#img02 {
 section#img03 {
     background-image: url(../imagens/background003.jpg);
 }
-footer{
-    background-color: black;
-    text-align: center;
-    color: #fff;
-    padding: 8px;
-    font-size: 0.8em;
-}
